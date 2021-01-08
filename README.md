@@ -3,7 +3,7 @@
 Youth Risk Behavior Surveillance System Classification Project
 
 ![](readme_images/logo-yrbss.jpg)
-
+![](readme_images/YRBS_2019_Homepage_890x320-large.jpg)
 ## Outline
 
 ## Overview
@@ -25,9 +25,14 @@ We used two separate target variables to conduct our classification. Our target 
 
 ![](readme_images/cm.jpg)
 
-![](readme_images/condom_age.jpg)
+![](readme_images/condom_condom_time%20(1).jpg)
+![](readme_images/condom_use.jpg)
+
 
 ## Results
+The Table below shows the breakdown of the evaluation metrics used to test our target variables.
+![](readme_images/evalscoretable.png)
+
 
 ## Conclusion
 
