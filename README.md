@@ -4,7 +4,15 @@ Youth Risk Behavior Surveillance System Classification Project
 
 ![](readme_images/YRBS_2019_Homepage_890x320-large.jpg)
 
-## Outline
+## Table of Contents
+ - Overview
+ - Business Problem
+ - Data Sources
+ - Methods
+ - Results
+ - Conclusion
+ - Recommendation
+ - Repository Contents
 
 ## Overview
 In order to conduct this research, we used the Youth Risk Behavior Surveillance System data published by the CDC in order to predict the likelihood of someone using safe sex practices. Our final model, with the best predictions, was a RandomForestClassifier. Our model contained 53 different features and resulted in an accuracy score of 95%.
@@ -34,6 +42,7 @@ The confusion matrices below display the predictions for our best two models. Th
 
 ![](readme_images/Rancom_Forest.jpg)
 ![](readme_images/DT_classifier.jpg)
+![](readme_images/cm_gridrf2.png)
 
 ## Conclusion
 
