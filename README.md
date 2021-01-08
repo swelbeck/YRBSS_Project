@@ -45,10 +45,11 @@ The confusion matrices below display the predictions for our best two models. Th
 ![](readme_images/cm_gridrf2.png)
 
 ## Conclusion
-
+Given the results of our models we chose the Random Forest Classifier as our final model. After reviewing the F1 and Accuracy scores of the model,  in addition to the confusion matrix, we have concluded that this model provided the strongest predictive power when trying to determine if someone will follow safe sex practices.
 
 ## Recommendation
-Given the results from our
+Given our findings, we recommend that students who engage in underage drug and alcohol use should be discouraged from engaging in unsafe sex practices to do the risk of adverse outcomes such as disease and teen-pregnancy. Teens with multiple sex partners, in addition to those who have had sex under the age of thirteen are most at risk of practice unsafe sex. Adequate education on the dangers of sex should be reinforced to teens during this vulnerable stage in their life to avoid developing unsafe sex practices.
+
 
 ## Repository Contents
 - `README.md`: The README for this repo branch explaining it's contents - you're reading it now
