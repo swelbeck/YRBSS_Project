@@ -52,14 +52,12 @@ Given our findings, we recommend that students who engage in underage drug and a
 
 
 ## Repository Contents
-- `README.md`: The README for this repo branch explaining it's contents - you're reading it now
-- `readme_images`: A folder containing images you see in this readme
-- `__init__.py`: Python helper file that tells Python that there are packages in the repository that can be imported
-- `data` folder: A folder for the data you reference with your code
-- `images` folder: A folder for the images you reference in your files
 - `code` folder: A folder for the python scripts that your Jupyter Notebook imports
-  - `__init__.py`: Python helper file that tells Python that there are packages in this folder that can be imported
-  - `data_cleaning.py`: Code to prepare data for analysis
-  - `visualizations.py`: Code to produce visualizations
-  - `eda_notebook.ipynb`: Notebook with any messy EDA so the main notebook can be more readable
+  - `FE_and_DL_Final.ipynb`: Code to prepare data for analysis
+  - `Modeling_Final_notebook.ipynb`: Code to prepare data for analysis
+  - `Visualizations_.ipynb`: Code to produce visualizations
+  - `RandomForestClassifier.ipynb`: Notebook with final RandomForestClassifier
+- `data` folder: A folder for the data you reference with your code
+- `readme_images`: A folder containing images you see in this readme
 - `.gitignore`: A hidden file that tells git to not track certain files and folders
+- `README.md`: The README for this repo branch explaining it's contents - you're reading it now
