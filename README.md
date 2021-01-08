@@ -36,11 +36,11 @@ We used two separate target variables to conduct our classification. Our target 
 
 ## Results
 The Table below shows the breakdown of the evaluation metrics used to test our target variables.
-![](readme_images/evalscoretable.png)
+![](readme_images/updated_table.png)
 
 The confusion matrices below display the predictions for our best two models. The Decision Tree classifier was better than Random Forest at predicting which students were not using condoms. For that reason, we favor the decision tree model, since our greater concern is predicting those who will engage in unsafe sex practices and this model allows us to specify those specific students.
 
-![](readme_images/Rancom_Forest.jpg)
+![](readme_images/CFRF.png)
 ![](readme_images/DT_classifier.jpg)
 ![](readme_images/cm_gridrf2.png)
 
