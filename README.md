@@ -30,18 +30,20 @@ We used two separate target variables to conduct our classification. Our target 
 The Table below shows the breakdown of the evaluation metrics used to test our target variables.
 ![](readme_images/evalscoretable.png)
 
-The confusion matrix below displays the prediction results of our best model.
+The confusion matrices below display the predictions for our best two models. The Decision Tree classifier was better than Random Forest at predicting which students were not using condoms. For that reason, we favor the decision tree model, since our greater concern is predicting those who will engage in unsafe sex practices and this model allows us to specify those specific students.
+
 ![](readme_images/cm.jpg)
+![](readme_images/DT_model.jpg)
 
 ## Conclusion
 
 
 ## Recommendation
-
+Given the results from our
 
 ## Repository Contents
 - `README.md`: The README for this repo branch explaining it's contents - you're reading it now
-- `dsc-phase1-project-template.ipynb`: A starter Jupyter Notebook with headings, code examples and guiding questions
+- `readme_images`: A folder containing images you see in this readme
 - `DS_Project_Presentation_Template.pdf`: A starter slide deck presenting your project - here is an [editable version](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy)
 - `__init__.py`: Python helper file that tells Python that there are packages in the repository that can be imported
 - `data` folder: A folder for the data you reference with your code
