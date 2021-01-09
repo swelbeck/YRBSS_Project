@@ -53,7 +53,7 @@ Given our findings, we recommend that students who engage in underage drug and a
 
 ## Repository Contents
 - `code` folder: A folder for the python scripts that your Jupyter Notebook imports
-  - `FE_and_DL_Final.ipynb`: Code to prepare data for analysis
+  - `FE_and_DC_Final.ipynb`: Code to prepare data for analysis
   - `Modeling_Final_notebook.ipynb`: Code to prepare data for analysis
   - `Visualizations_.ipynb`: Code to produce visualizations
   - `RandomForestClassifier.ipynb`: Notebook with final RandomForestClassifier
