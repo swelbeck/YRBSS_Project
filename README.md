@@ -1,4 +1,4 @@
-# Youth Risk Behavior Surveillance System Classification Project
+# Youth Risk Behavior Surveillance System Classification
 
 ![](readme_images/YRBS_2019_Homepage_890x320-large.jpg)
 
