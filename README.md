@@ -2,6 +2,8 @@
 
 ![](readme_images/YRBS_2019_Homepage_890x320-large.jpg)
 
+Authors: Sandra Welbeck & Alexandra Bruno
+
 ## Table of Contents
  - Overview
  - Business Problem
